@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/coola/CLionProjects/matrix/cmake-build-debug",
+  "command": "\"C:\\PROGRA~1\\JetBrains\\CLion 2026.2.2\\bin\\mingw\\bin\\c++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\matrix.dir\\main.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\matrix.dir\\main.cpp.obj -c C:\\Users\\coola\\CLionProjects\\matrix\\main.cpp",
+  "file": "C:/Users/coola/CLionProjects/matrix/main.cpp",
+  "output": "C:/Users/coola/CLionProjects/matrix/cmake-build-debug/CMakeFiles/matrix.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/coola/CLionProjects/matrix/cmake-build-debug",
+  "command": "\"C:\\PROGRA~1\\JetBrains\\CLion 2026.2.2\\bin\\mingw\\bin\\c++.exe\" -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\matrix.dir\\Matrix.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\matrix.dir\\Matrix.cpp.obj -c C:\\Users\\coola\\CLionProjects\\matrix\\Matrix.cpp",
+  "file": "C:/Users/coola/CLionProjects/matrix/Matrix.cpp",
+  "output": "C:/Users/coola/CLionProjects/matrix/cmake-build-debug/CMakeFiles/matrix.dir/Matrix.cpp.obj"
+}
+]

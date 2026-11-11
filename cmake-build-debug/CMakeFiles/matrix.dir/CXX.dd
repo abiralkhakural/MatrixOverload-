@@ -1,0 +1,5 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/matrix.dir/main.cpp.obj: dyndep
+
+build CMakeFiles/matrix.dir/Matrix.cpp.obj: dyndep
+
